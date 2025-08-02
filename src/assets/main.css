@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+body {
+
+
+  background: #FFFFFF;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+
+  /* height: auto !important;
+  overflow: auto !important; */
+  scroll-behavior: smooth !important;
+}
+
+.text-blue{
+    color: #3D5BC2;
+}
