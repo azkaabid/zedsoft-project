@@ -3,7 +3,7 @@
         <Sidebar />
 
         <div class="flex-1 pl-24">
-            <div class=" mt-10">
+            <div class="p-6 mt-10">
 
 
                 <div class="flex justify-between items-center mb-4">
